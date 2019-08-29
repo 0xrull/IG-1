@@ -26,3 +26,11 @@
 	# Right Click (Mouse/Touchpad) In toolsig-master Folder & Choose Git Bash Here!
 	$ unzip node_modules.zip
 	$ node index.js
+
+## My Social Media
+	☑ Instagram	: https://www.instagram.com/auliaahmad16
+	☑ Facebook	: https://www.facebook.com/aulia.ahmad.102
+	☑ Github	: https://github.com/auliaahmad165
+	
+## License
+	☑ This project is licensed under MIT License 2017-2019. https://opensource.org/licenses/MIT.
